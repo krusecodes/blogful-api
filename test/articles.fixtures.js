@@ -1,4 +1,3 @@
-  
 function makeArticlesArray() {
   return [
     {
